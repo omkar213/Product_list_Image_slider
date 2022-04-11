@@ -5,7 +5,7 @@ Plugin URI:   https://www.wpbeginner.com
 Description:  Plugins is used for display Product List with Image Slider.
 Version:      1.0
 Author:       KRUSHNA53
-Author URI:   https://www.google.com
+Author URI:   https://krushna53.com/
 */
 
 //Note: To run this image slider , you should have to put multiple images for single product in the gallery section
